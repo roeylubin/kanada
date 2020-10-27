@@ -26,6 +26,12 @@ main{
 	width: 100%;
 }
 
+/*smoking*/
+.ashtray{
+	max-width: 20px;
+}
+
+
 /*footer*/
 footer{
 	padding: 100px;
