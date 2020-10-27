@@ -24,9 +24,11 @@ main{
 
 /*headlines today tomorrow kolnoa kanada*/
 .glowey{
-	max-width: 100%;
 	width: 450px;
-	padding: 50px 0 70px;
+	padding: 50px 0px 64px;
+	display: block;
+	box-sizing: content-box;
+	margin: 0 auto;
 }
 
 /*video outer glow*/
@@ -35,14 +37,35 @@ main{
 	width: 100%;
 }
 
+.hatzerim{
+	width: 110px;
+	display: block;
+	margin: 0 auto;
+
+}
+
 /*smoking*/
+.smoker{
+
+}
 .ashtray{
+	width: 90px;
+	margin-left: 830px;
+}
+.hand{
+	width: 100px;
+	margin-left: 930px;
+
+}
+.smoke{
+	width: 100px;
+	margin-left: 970px;
 
 }
 
-img{
-margin: 0 auto;
-}
+
+
+
 
 
 /*youtube embed style*/
