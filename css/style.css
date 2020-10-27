@@ -70,8 +70,7 @@ main{
 
 /*youtube embed style*/
 .video-container{
-  width:46.5vw;
-  height:50vh;
+  height:49vh;
   overflow:hidden;
   position:relative;
   margin-top: -40px;
