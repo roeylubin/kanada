@@ -4,12 +4,22 @@
 @font-face{
 	src: url(../fonts/love.otf);
 	font-family: love;
-
+	font-style: normal;
+	font-weight: normal;
 }
 @font-face{
 	src: url(../fonts/bristol.otf);
 	font-family: bristol;
+	font-style: normal;
+	font-weight: normal;
 }
+@font-face{
+	src: url(../fonts/kobe.otf);
+	font-family: kobe;
+	font-style: normal;
+	font-weight: normal;
+}
+
 
 body{
 	background-color: black;
@@ -110,6 +120,7 @@ main{
 }
 
 .social{
+	text-align: center;
 }
 
 /*footer*/
