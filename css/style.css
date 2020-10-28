@@ -108,16 +108,14 @@ footer{
 
 /*insta link*/
 a{
-	text-align: right;
-	font-family: 'bristol';
+	font-family: 'kobe';
 	color: #480000;
 	font-size: 13px;
 	text-decoration: none;
-	padding-left: 60px;
 }
 
 a:hover{
 	color: #bd0000	;
-	margin: 0 auto;
-	font-size: 20px;
+	font-size: 15px;
+	font-family: kobe;
 }
