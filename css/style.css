@@ -134,6 +134,13 @@ footer{
 a{
 	font-family: 'kobe';
 	color: #480000;
+	font-size: 15px;
+	text-decoration: none;
+}
+
+p{
+	font-family: 'kobe';
+	color: #480000;
 	font-size: 13px;
 	text-decoration: none;
 }
