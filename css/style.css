@@ -2,8 +2,8 @@
 	box-sizing: border-box;
 }
 @font-face{
-	src: url(../fonts/neve_zedeq_oeregular.ttf);
-	font-family: neve;
+	src: url(../fonts/love.otf);
+	font-family: love;
 
 }
 @font-face{
@@ -67,7 +67,16 @@ main{
 }
 
 
-
+.kol{
+	font-family: helvetica neue;
+	font-style: normal;
+	font-weight: 500;
+	margin: 0;
+	font-size: 2rem;
+	line-height: 1.1;
+	color: white;
+	text-align: center;
+}
 
 
 
