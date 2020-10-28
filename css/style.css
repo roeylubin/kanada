@@ -100,11 +100,14 @@ main{
   pointer-events:none;
 }
 
+.social{
+}
 
 /*footer*/
 footer{
 	float: left;
 	padding: 50px;
+	margin: 0px 0px 0px -20px;
 }
 
 /*insta link*/
