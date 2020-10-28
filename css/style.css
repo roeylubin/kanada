@@ -35,6 +35,7 @@ main{
 .glow{
 	filter: blur(20px);
 	width: 100%;
+	display: none;
 }
 
 .hatzerim{
